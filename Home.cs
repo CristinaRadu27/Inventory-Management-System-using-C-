@@ -1,4 +1,13 @@
-﻿using System;
+This form is the first one that appears when running the application, the user being able to choose from amenu what section of the application he wants to access. These sections are:
+1.Manage Products
+2.Manege Categories
+3.Manage Users
+4.Manage Orders
+5.Login
+
+
+
+using System;
 using System.Collections.Generic;
 using System.ComponentModel;
 using System.Data;
