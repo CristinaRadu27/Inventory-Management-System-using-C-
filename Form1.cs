@@ -1,4 +1,10 @@
-﻿using System;
+This first form is used for login of an user who wants to conenct to the application.
+All the users of the application will have their usernames and passwords saved in a database.
+
+
+
+
+using System;
 using System.Collections.Generic;
 using System.ComponentModel;
 using System.Data;
